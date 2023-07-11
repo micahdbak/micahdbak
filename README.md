@@ -1,8 +1,8 @@
 # Hello 👋
 
-My name is Micah Baker, and I am currently studying Computing Science at Simon Fraser University.
+My name is Micah Baker; I am a second-year Computing Science student at Simon Fraser University.
 
-I am a passionate software developer fluent in the programming languages C, C++, Go, Python, JavaScript, HTML, CSS,
-and with experience using [Flask](https://flask.palletsprojects.com/), [React](https://react.dev/) and [Node](https://nodejs.org/).
+I am a passionate software developer, fluent in the programming languages C, C++, Go, JavaScript, Python, HTML/CSS.
+Previously I have worked with [React](https://react.dev/), [Node.js](https://nodejs.org/), and [Flask](https://flask.palletsprojects.com/).
 
-Welcome to my GitHub page!
+Please check out my [personal website](https://micahbaker.xyz) to learn more about my projects and experience.
