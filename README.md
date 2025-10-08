@@ -1,1 +1,1 @@
-<img src="https://random.dog/61d73136-5c5d-4688-bd89-5ae533ffea1f.jpg" width="128">
+🍁
